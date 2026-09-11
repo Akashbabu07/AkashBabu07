@@ -37,7 +37,7 @@ Building practical software, exploring AI & Agentic applications, and solving co
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AkashBabu07&theme=github-compact&hide_border=true"
+    src="https://raw.githubusercontent.com/Akashbabu07/Akashbabu07/output/activity-graph.svg"
     alt="GitHub Activity Graph"
   />
 </p>
