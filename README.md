@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Akash Babu 👋
 
-<!--
-**Akashbabu07/AkashBabu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer • AI & Agentic Applications • Problem Solver
 
-Here are some ideas to get you started:
+I build practical software and AI-powered applications, explore new technologies, and enjoy solving complex problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building AI & Agentic applications
+- 🧠 800+ LeetCode problems solved
+- 💻 Interested in Software Engineering, AI, and Systems
+- 🚀 Always learning by building
+
+## Let's Connect
+
+• [GitHub](www.github.com/AkashBabu07)
