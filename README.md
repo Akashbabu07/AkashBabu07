@@ -16,3 +16,10 @@ Building practical software, exploring AI & Agentic applications, and solving co
 ## Let's Connect
 
 • [GitHub](www.github.com/AkashBabu07)
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,react,nextjs,postgres,mongodb,redis,kafka,docker,git,github" />
+
+</p>
